@@ -1,0 +1,10 @@
+python-telegram-bot
+telethon
+python-dotenv
+black
+pytest
+pylint
+aiosqlite
+metaapi-cloud-sdk
+openai
+numpy
